@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#define ani 2
+#define ani 10
 
 using namespace std;
 
